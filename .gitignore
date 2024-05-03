@@ -1,3 +1,4 @@
 .venv/
 accounts.txt
 accounts.db
+cardiffnlp/*
