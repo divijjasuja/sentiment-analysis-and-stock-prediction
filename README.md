@@ -87,10 +87,12 @@ While sentiment did not improve quantitative MSE performance, correlation analys
 ## Project Structure
 
 ```
-├── sentiment_analysis_stock_prediction.ipynb   # Main notebook
-├── data/                                        # Stock and tweet data
-├── models/                                      # Saved model weights
-└── requirements.txt                             # Dependencies
+├── Divij_Jasuja_Bachelors_Project_Stock_prediction.ipynb   # Main notebook
+├── stock_data/                                             # Stock data
+├── twitter_data/                                           # twitter data
+├── requirements.txt                                        # Dependencies
+├── NVDA_final                                              # csv file with open, close, vol, etc. + sentiment sum 
+└── pyproject.toml                                          # uv toml file
 ```
 
 ---
