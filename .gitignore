@@ -2,3 +2,4 @@
 accounts.txt
 accounts.db
 cardiffnlp/*
+__pycache__/
